@@ -1,4 +1,6 @@
 Alle öffentlichen Aktivitäten (noch nicht vollständnig)
+Dr. Andreas Becker
+
 ---
 # 2025
 
