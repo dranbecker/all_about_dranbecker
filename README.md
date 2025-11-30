@@ -10,7 +10,7 @@ Dieses Repository dient als zentrale Anlaufstelle für Redaktionen, Journalist:i
 In diesem Repository finden Sie:
 
 - **Profilfoto** (zur honorarfreien redaktionellen Verwendung mit Quellenangabe)
-- **Kurzbiografie** (für Presse und Veranstaltungsprogramme)
+- **Kurzbiografie deutsch englisch** (für Presse und Veranstaltungsprogramme)
 - **Ausführlicher Lebenslauf** (PDF)
 - **Publikationsliste** (wissenschaftlich / populärwissenschaftlich)
 - **Projekte und Initiativen** (Auswahl aktueller Engagements)
