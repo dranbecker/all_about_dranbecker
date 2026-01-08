@@ -11,7 +11,7 @@ In diesem Repository finden Sie:
 
 - **Profilfoto** (zur honorarfreien redaktionellen Verwendung mit Quellenangabe: Sabine Kress, Mannheim)
 - **Kurzbiografie deutsch englisch** (für Presse und Veranstaltungsprogramme)
-- **Ausführlicher Lebenslauf** (PDF)
+- **Ausführlicher Lebenslauf** 
 - **Publikationsliste** (wissenschaftlich / populärwissenschaftlich)
 - **Projekte und Initiativen** (Auswahl aktueller Engagements)
 - **Kontaktinformationen**
