@@ -60,4 +60,4 @@ GitHub-Profil: [https://github.com/andreasbecker](https://github.com/dranbecker)
 Dieses Repository wird regelmäßig gepflegt und aktualisiert.  
 Falls Sie eine aktuelle Projektbeschreibung, Zitate oder ein Pressefoto in anderer Auflösung benötigen, können Sie sich gerne per E-Mail melden.
 
-Letzte Aktualisierung: **November 2025**
+Letzte Aktualisierung: **Feburar 2026**
