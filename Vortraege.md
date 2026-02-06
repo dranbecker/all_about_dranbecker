@@ -1,7 +1,7 @@
 # VORTRÄGE
 ## 2026
 
-### Scientific Lecture Vienna, everpharm
+### Scientific Lecture Vienna, EVERpharma
 **Datum:** 30.01.202 \
 **Ort:** Vienna \
 **Titel:** Caregiver Burden and Insights of a German-Parkinson-Net \
