@@ -7,7 +7,7 @@ Dr. Andreas Becker
 ## BIAL Deutschland GmbH
 Kurhessenstr. 13, 64546 Mörfelden-Walldorf
 
-Videocast **Videointerview Bialive**
+Videocast **Videointerview Bial Live**
 
 ---
 
@@ -16,6 +16,7 @@ Videocast **Videointerview Bialive**
 # 2025
 
 ## TAKEPART Media + Science GmbH
+## Share to Care Video-Forum
 Maria-Hilf-Straße 15, 50677 Köln   
 
 Videocast zur **Pumpentherapie**
