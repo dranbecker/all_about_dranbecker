@@ -1,7 +1,7 @@
 # VORTRÄGE
 ## 2026
 
-### DOPAsc Expert, EVERpharma
+### DOPAsc Expert, abbvie
 **Datum:** 20-21.3.2026\
 **Ort:** München \
 **Titel:** Vorteile und Stolpersteine: ganzheitlicher Blick auf auf Netzwerke in der Parkinsonversorgung \
