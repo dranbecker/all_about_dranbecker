@@ -17,7 +17,7 @@ Parkinson: Komplextherapie, geräteunterstützende Therapie, Ermächtigungsambul
 Netzwerk: Versorgungsforschung und Projektleitung Parkinsonnetz RheinNeckar+
 Intensivmedizin: Neurologische Intensivmedizin, Weaningzentrum DGNR
 
-E-Health:	PARson, RAGLE-PD, FHIR
+E-Health:	PARson, RAGLE-PD, TailoredPD, FHIR
 
 Weiterbildungsbefugnis: Neurologie:	30 Monate und 6 Monate Intensiv (36 Monate), LÄK Baden-Württemberg
 Zusatzbezeichnung Intensivmedizin: 18 Monate (volle WB-Befugnis), LÄK Baden-Württemberg
