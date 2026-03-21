@@ -31,7 +31,7 @@ Areas of Focus
 Parkinson’s Disease: Complex therapy, device-assisted therapy, specialized outpatient clinic (with authorization)
 Network Research: Health services research and project leadership, *Parkinson Network RheinNeckar+*
 Intensive Care Medicine: Neurological intensive care, DGNR-certified Weaning Center
-E-Health: PARson, RAGLE-PD, FHIR integration
+E-Health: PARson, RAGLE-PD, TailoredPD, FHIR integration
 
 Teaching Authorization
 
