@@ -1,8 +1,14 @@
 # VORTRÄGE
 ## 2026
 
+### DOPAsc Expert, EVERpharma
+**Datum:** 20-21.3.2026\
+**Ort:** München \
+**Titel:** Vorteile und Stolpersteine: ganzheitlicher Blick auf auf Netzwerke in der Parkinsonversorgung \
+**Stichworte:** ICF, WHODAS 2.0, Burden, Parkinsons Disease Care Management, Spoke and Hub in Pakinson-Care, Sucker-Effekt, Creeping Strain, Ziele der Netzwerke, Parkinsonnetzwerke Deutschland e.V.
+
 ### Scientific Lecture Vienna, EVERpharma
-**Datum:** 30.01.202 \
+**Datum:** 30.01.2026 \
 **Ort:** Vienna \
 **Titel:** Caregiver Burden and Insights of a German-Parkinson-Net \
 **Stichworte:** Caregiver Burden, Train, Parkinson-Nurses, Transfer Knowledge, Spoke and Hub in Pakinson-Care, Parkinson's Disease Care Management
