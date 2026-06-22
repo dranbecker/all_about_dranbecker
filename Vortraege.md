@@ -13,6 +13,12 @@
 **Titel:** Caregiver Burden and Insights of a German-Parkinson-Net \
 **Stichworte:** Caregiver Burden, Train, Parkinson-Nurses, Transfer Knowledge, Spoke and Hub in Pakinson-Care, Parkinson's Disease Care Management
 
+### Experten-Meeting Leipzig, Stadapharn
+**Datum:** 14.04.2026 \
+**Ort:** Leipzig \
+**Titel:** Apomorphee - Apomorphin und Schlaf \
+**Stichworte:** CSAI, PE, Schlaf, Insomnie, Pumpentherapie  
+
 ## 2025
 
 ### Landesapothekerverband, bundesweit
