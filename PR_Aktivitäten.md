@@ -4,22 +4,22 @@ Dr. Andreas Becker
 ---
 # 2026
 
-## BIAL Deutschland GmbH
-Kurhessenstr. 13, 64546 Mörfelden-Walldorf
+##  NeuroLive - Stadapharm Partner's Satelliten - streamedup! GmbH  
 
-Videocast: **Videointerview Bial Live**
+Borsigstraße 11-13, 65205 Wiesbaden  
+
+Live vor Ort: **5-2-1 Kompass der Therapie**
 
 ## ZAP Nußloch
 Walldorfer Straße. 100, 69226 Nußloch  
 
 Live vor Ort: **Welt-Parkinson-Tag**
 
+## BIAL Deutschland GmbH
+Kurhessenstr. 13, 64546 Mörfelden-Walldorf
 
-##  NeuroLive - Stadapharm Partner's Satelliten - streamedup! GmbH  
+Videocast: **Videointerview Bial Live**
 
-Borsigstraße 11-13, 65205 Wiesbaden  
-
-Live vor Ort: **5-2-1 Kompass der Therapie**
 
 ---
 
