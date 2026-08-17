@@ -1,6 +1,12 @@
 # VORTRÄGE
 ## 2026
 
+### Rhein-Neckar-Parkinson-Tag 2026
+**Datum:** 11.7.2026\
+**Ort:** Heidelberg \
+**Titel:** Schlaf und Parkinson \
+**Stichworte:** Insomnie, RLS, RBD, Tagesmüdigkeit, Schlafphasen, Polysomnographie, Therapie
+
 ### DOPAsc Expert, abbvie
 **Datum:** 20-21.3.2026\
 **Ort:** München \
