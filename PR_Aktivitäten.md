@@ -4,6 +4,10 @@ Dr. Andreas Becker
 ---
 # 2026
 
+##  Parkinson-Klartext    
+
+YouTube-Channel: **[RaglePD](https://www.youtube.com/@RaglePD)**
+
 ##  NeuroLive - Stadapharm Partner's Satelliten - streamedup! GmbH  
 
 Borsigstraße 11-13, 65205 Wiesbaden  
