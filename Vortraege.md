@@ -1,6 +1,12 @@
 # VORTRÄGE
 ## 2026
 
+### Volkshochschule Heidelberg
+**Datum:** 5.11.2026
+**Ort:** VHS Heidelberg, Bergheimer-Straße 76
+**Titel:** Parkinson-Krankheit
+**Stichworte:** Laien-Vortrag, Diagnose, orale Therapie, Netzwerke, geräteunterstützende Therapie
+
 ### Ärzteschaft Heidelberg
 **Datum:** 16.9.2026\
 **Ort:** Online \
