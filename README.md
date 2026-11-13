@@ -15,6 +15,7 @@ In diesem Repository finden Sie:
 - **Publikationsliste** (wissenschaftlich / populärwissenschaftlich)
 - **Projekte und Initiativen** (Auswahl aktueller Engagements)
 - **Kontaktinformationen**
+- **LogoExport** Logos des ParkinsonNetz Rhein-Neckar+
 
 ---
 
