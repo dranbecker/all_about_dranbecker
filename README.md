@@ -33,7 +33,7 @@ Die in diesem Repository bereitgestellten Materialien dürfen unter folgenden Be
 ## ⚖️ Lizenzhinweis
 
 Dieses Repository steht unter der **GNU General Public License v3.0 (GPL-3.0)**.  
-Die Lizenzdatei finden Sie unter [`LICENSE`](./LICENSE).
+Die Lizenzdatei finden Sie unter [`LICENSE`](./LICENSE.md).
 
 Die Lizenz bezieht sich insbesondere auf die im Repository enthaltenen **Text- und Metadaten-Dateien**.  
 Für Fotos, Lebensläufe und andere personenbezogene Dokumente gelten **ergänzende Copyright-Bedingungen**, wie oben beschrieben.
