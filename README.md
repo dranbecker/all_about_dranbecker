@@ -24,7 +24,6 @@ In diesem Repository finden Sie:
 Die in diesem Repository bereitgestellten Materialien dürfen unter folgenden Bedingungen genutzt werden:
 
 - Nutzung **ausschließlich für redaktionelle, journalistische oder wissenschaftliche Zwecke**.  
-- **Namensnennung erforderlich:** „Foto: Sabine Kress, Mannheim“  
 - **Keine kommerzielle Nutzung** ohne vorherige schriftliche Zustimmung.  
 - **Keine Bearbeitung** von Bildern ohne vorherige Rücksprache.
 
